@@ -15,4 +15,4 @@ Validation: Great Expectations, Type enforcement, run through schema like previo
 
 Load: Straightforward, load to Azure (ADLS Gen2), maybe the use of a python library 
 
-Transform data within Azure via Snowflake
+Transform data within Azure via Snowflake       
